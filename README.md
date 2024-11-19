@@ -1,7 +1,7 @@
 
-# Multi-Threaded Image Averaging Application
+# Assignment 3. Concurrency
 
-This project demonstrates how to process images using **single-threaded** and **multi-threaded** approaches. The program applies a block-wise averaging operation on an image, progressively updating the display for each block in a graphical interface (GUI). It also allows for real-time visualization of progress.
+This task demonstrates how to process images using **single-threaded** and **multi-threaded** approaches. The program applies a block-wise averaging operation on an image, progressively updating the display for each block in a graphical interface (GUI). It also allows for real-time visualization of progress.
 
 ---
 
