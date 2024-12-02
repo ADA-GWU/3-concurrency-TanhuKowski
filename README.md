@@ -38,7 +38,7 @@ pip install pillow numpy
 
 ### **Command-Line Syntax**
 ```bash
-python yourprogram.py <file_name> <square_size> <mode>
+python task_3.py <file_name> <square_size> <mode>
 ```
 
 ### **Arguments**
@@ -52,7 +52,7 @@ python yourprogram.py <file_name> <square_size> <mode>
 ### **Example**
 
 ```bash
-python yourprogram.py input.jpg 20 M
+python task_3.py input.jpg 20 M
 ```
 
 This processes `input.jpg` in **multi-threaded mode** with block size 20 pixels.
